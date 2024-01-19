@@ -2,15 +2,12 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+title: "Honolulu Marathon Training"
+date: 2022
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Sports
+summary: "How I trained myself to run the Honolulu Marathon."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
