@@ -9,18 +9,14 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
     "location": { "address": "", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Shayde12", "url": "https://shayde12.github.io/" },
+      { "network": "linkedin", "username": "Shayde Tamura", "url": "https://www.linkedin.com/in/shayde-tamura-9738072a9/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Coding" },
+    { "name": "IT" },
+    { "name": "Cybersecurity" }
   ],
   "skills": [
     {
@@ -29,7 +25,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows" ]
     }
   ],
   "education": [
@@ -58,8 +54,8 @@
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2023-10-16",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
