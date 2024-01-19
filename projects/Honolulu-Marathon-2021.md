@@ -10,7 +10,7 @@ labels:
 summary: "I trained myself for the 2021 Honolulu Marathon."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/300x300-honolulu-marathon-course-map.jpeg">
 
 The Honolulu Marathon is a massive undertaking of 26.2 miles from Ala Moana Boulevard to Kapiolani Park. The marathon starts at 5:30 in the morning so getting there early to secure a good place is paramount. The course itself is mostly flat, but there are some big hills at the 8 mile mark and the 24th mile mark. These hills are about half a mile long and go up in elevation by about 100 feet. When running the marathon the early morning views are quite nice especially around the Diamond Head area. 
 
