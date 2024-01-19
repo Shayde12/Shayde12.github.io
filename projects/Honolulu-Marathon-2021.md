@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/qLI8qG_-_300x300.jpg
 title: "Honolulu Marathon 2021"
 date: 2021
 published: true
