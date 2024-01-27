@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/300x300-Discord-Bot.png
 title: "Discord Bot"
 date: 2024
 published: true
