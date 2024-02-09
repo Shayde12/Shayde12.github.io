@@ -12,6 +12,7 @@ labels:
 ---
 
 <img widthsrc="">
+
 ## Arbitrary Coding Style:
 Since the first coding class I have ever taken, there has always been a site where the coding standards are detailed to you. I admittedly did not really look at the coding standard and just copied the way the teacher's had their code. It was mostly because I thought it would be kind of a pain to do and I'm kind of lazy. 
 
