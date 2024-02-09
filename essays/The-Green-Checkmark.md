@@ -11,7 +11,7 @@ labels:
   - Coding Standard
 ---
 
-<img width="300pixels" src="/img/414735211af7e003a0b936b32960e744.png">
+<img align="left" width="300pixels" src="/img/414735211af7e003a0b936b32960e744.png">
 
 ## Arbitrary Coding Style:
 Since the first coding class I have ever taken, there has always been a site where the coding standards are detailed to you. I admittedly did not really look at the coding standard and just copied the way the teacher's had their code. It was mostly because I thought it would be kind of a pain to do and I'm kind of lazy. 
