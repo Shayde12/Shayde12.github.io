@@ -9,7 +9,7 @@ labels:
   - Web Design
   - Bootstrap 5
 ---
-
+<img src="
 ## 90s Throwback
 HTML and CSS have been an interesting experience to say the least. I think it is easier to do raw HTML and CSS, however the website resulting from that looks less than stellar. But then again, the only website I had to code in raw HTML and CSS were quite simplistic and not that difficult to do. And from the raw files that I've seen looking at websites do not look fun to do whatsoever. 
 
