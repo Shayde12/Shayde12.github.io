@@ -11,7 +11,7 @@ labels:
 ---
 
 ## 90s Throwback
-HTML and CSS have been an interesting experience to say the least. I think it is easier to do raw HTML and CSS, however the website resulting from that looks less than stellar. But then again, the only website I had to code in raw HTML and CSS was quite simplistic and not that difficult to do. The website I coded is linked here: http://localhost:63342/browserhistory/index.html?_ijt=uc6iltpedrd8mkg4sgq30k6479&_ij_reload=RELOAD_ON_SAVE. And from the raw files that I've seen looking at websites do not look fun to do whatsoever. 
+HTML and CSS have been an interesting experience to say the least. I think it is easier to do raw HTML and CSS, however the website resulting from that looks less than stellar. But then again, the only website I had to code in raw HTML and CSS was quite simplistic and not that difficult to do. The website I coded is linked here: http://localhost:63342/browserhistory/index.html?_ijt=lr4ljhgja8movt6o87iq5e9842&_ij_reload=RELOAD_ON_SAVE . And from the raw files that I've seen looking at websites do not look fun to do whatsoever. 
 
 ## 2000s, A New Look
 Experiencing Bootstrap 5 has been a headache and the amount you have finangle the settings are frustrating. But similarly to coding, it is quite satisfying to finally get it right after messing with it for who knows how long. The helpful websites do make it a lot easier to figure out some of the stuff but there is still a lot to find out on your own. The websites though, are admittedly much crisper than when using raw HTML and CSS. I have linked the same website but with Bootstrap 5 here: http://localhost:63342/browserhistory/index.html?_ijt=lr4ljhgja8movt6o87iq5e9842&_ij_reload=RELOAD_ON_SAVE
