@@ -10,11 +10,9 @@ labels:
   - Design Patterns
 ---
 
-## 90s Throwback
-HTML and CSS have been an interesting experience to say the least. I think it is easier to do raw HTML and CSS, however the website resulting from that looks less than stellar. But then again, the only website I had to code in raw HTML and CSS was quite simplistic and not that difficult to do. And from the raw files that I've seen looking at websites do not look fun to do whatsoever. 
+## The Building Blocks of Software Design
+There are three types of design patterns and in those three patterns there are a ton of sub patterns within these three types main types. The three types are: creational, behavioral, and structual. The creational patterns are those that deal with object creation and tries to make sure that the object creation is suitable to the task at hand. Behavioral patterns, deal with the way object's interact with each other and make sure it is as efficient as possible. Structual patterns increase the individuality of the system so that even if something changes it won't break the entire thing. 
 
-## 2000s, A New Look
-Experiencing Bootstrap 5 has been a headache and the amount you have finangle the settings are frustrating. But similarly to coding, it is quite satisfying to finally get it right after messing with it for who knows how long. The helpful websites do make it a lot easier to figure out some of the stuff but there is still a lot to find out on your own. The websites though, are admittedly much crisper than when using raw HTML and CSS. 
-
-## 90s or 2000s? Which is better?  
-Which is better? The answer should be clear, using UI frameworks such as Bootstrap 5 is superior to trying to code in raw HTML and CSS. Not only is the overall look of the website much better but it also, beats trying to code everything from scratch. Bootstrap allows for more customizability quicker because of the pre-written code that you have available to you. There are some drawbacks, like mentioned earlier, the copious amount of time that you have to finangle with it to make it work. This could be attributed to a lack of experience in Bootstrap so, the tradeoff is worth it. 
+## Building a Program with the Blueprints
+After looking into what design patterns are, I realized that I have actually been using them quite a bit. 
+Such as when I created a button when working on one of my assignments that allowed users to edit a card, which is a form of a behavioral design pattern. Specifically it could be a observer pattern as the button would inform the various parts of the application that there is a change taking place and ensure that the parts that need to be working are. Within a similar assignment, I had to setup a domain for a website I along with my group are working on. This is can be connected to a structual design pattern as I also had to set up a proxy in order for the domain to go through. Despite not knowing what design patterns were earlier, I have actually been using them quite a lot. 
