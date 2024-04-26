@@ -9,6 +9,7 @@ labels:
   - Coding
   - Design Patterns
 ---
+<img align="left" hspace="10" width="300pixels" src="/img/414735211af7e003a0b936b32960e744.png">
 
 ## The Building Blocks of Software Design
 There are three types of design patterns and in those three patterns there are a ton of sub patterns within these three types main types. The three types are: creational, behavioral, and structual. The creational patterns are those that deal with object creation and tries to make sure that the object creation is suitable to the task at hand. Behavioral patterns, deal with the way object's interact with each other and make sure it is as efficient as possible. Structual patterns increase the individuality of the system so that even if something changes it won't break the entire thing. 
