@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Better Websites. More Headaches. Bootstrap"
+title: ""
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-22
+date: 2024-04-25
 published: true
 labels:
-  - Web Design
-  - Bootstrap 5
+  - Coding
+  - Design Patterns
 ---
 
 ## 90s Throwback
