@@ -19,42 +19,55 @@ I have used AI in class this semester in the following areas:
   1. Experience WODs e.g. E18
 
 My use of AI for the Experience WODs were little to none as I thought it would be better for myself and my learning if I did it myself. Often I was able to do these experience WODs on my own but if there was something I was absolutely stuck on, I would try and watch the videos attached to the experience WODs. Through these I was often able to figure out whatever error I was having and fix it.  
+  
   2. In-class Practice WODs
 
 My AI use in the in-class practice WODs was pretty zero as I thought it was possible to do it on my own. Even if I did not finish them in class, it was possible to continue my efforts on them outside of class. With that extra time, the WODs became more doable. 
+  
   3. In-class WODs
 
 I tried to avoid using ChatGPT, but the in-class WODs had time constraints and were worth a lot of points. I did use ChatGPT for a few of the WODs but I still had a little bit of issues. 
+  
   4. Essays
 
 I have utilized AI in some of the essays, but it is usually for ideas of an essay title or to explain a topic to me more concisely. However, most of the time I did not use the titles ChatGPT gave me as I did not really like them and I would create my own.
+  
   5. Final project
 
 In the final project of ICS 314, I used ChatGPT to help me to figure out a way to filter out items by their owners. It helped me to create a function that was able to keep track of someone's email to ensure that their items were showcased on their items page. 
+  
   6. Learning a concept / tutorial
 
 In the design patterns essay I asked ChatGPT to explain design patterns to me so that I could have most of the information right in front of me and not have to look at several different sources at once. ChatGPT also helped me to get a better idea of each of the different design patterns and how they worked. 
+  
   7. Answering a question in class or in Discord
 
 I did not really answer questions in class or in the discord, but I think it would be better to try and answer the questions based on one's own knowledge rather than having to automatically resort to AI
+  
   8. Asking or answering a smart-question
 
 Usually if I had a question I would be able to articulate it well enough or show it well enough that I did not have to have AI help me to formulate a question. 
+  
   9. Coding example e.g. “give an example of using Underscore .pluck”
 
 I asked ChatGPT to give coding examples on how strings of code worked such as a lot of Underscore functions because those were particularly confusing to me. I think I did ask ChatGPT to give me an example of how Underscore .pluck worked. Asking ChatGPT to give me coding examples did help a little with my general understanding of how coding works. 
+  
   10. Explaining code
 
 At the beginning of the semester, when doing Javascript if I did not understand how some code worked, I would ask ChatGPT to explain it to me. I could usually understand what the code did after the explanations. 
+  
   11. Writing code
 
 I have used ChatGPT to help me write code in the in-class WODs, however, this was after I did not pass them. I wanted to try and do as much as possible under my own efforts. ChatGPT would help a little but what matters the most is how good you are at asking specific questions. 
+  
   12. Documenting code
 
 I did not use ChatGPT to document my code as documenting code is not that hard as long as you understand what the code does. 
+  
   13. Quality assurance 
 
 I did use ChatGPT to help with making sure that my code was able to pass ESlint tests, it was often able to find the errors and correct them. 
+  
   14. Other uses in ICS 314 not listed above
 
 I have not used AI in any other way within ICS 314
