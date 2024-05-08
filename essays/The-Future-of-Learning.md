@@ -20,11 +20,11 @@ I have used AI in class this semester in the following areas:
 
 I minimally used AI for the Experience WODs, preferring to solve problems independently to enhance my learning. When stuck, I often referred to attached videos rather than AI, which helped me resolve issues effectively.
   
-  2. In-class Practice WODs
+  2. In-Class Practice WODs
 
 My use of AI was negligible, as I believed I could manage these WODs independently. With additional time outside of class, I was able to complete them successfully.
   
-  3. In-class WODs
+  3. In-Class WODs
 
 Despite trying to avoid using ChatGPT, the time constraints and high stakes of in-class WODs occasionally necessitated its use, although not without issues.
   
@@ -32,7 +32,7 @@ Despite trying to avoid using ChatGPT, the time constraints and high stakes of i
 
 For essays, I sometimes consulted AI for ideas on titles or for more concise explanations of topics. Generally, I preferred to create my own titles.
   
-  5. Final project
+  5. Final Project
 
 In the final project for ICS 314, ChatGPT assisted me in developing a function to filter items by their owners, ensuring proper display on their respective pages.
   
@@ -44,11 +44,11 @@ For a design patterns essay, I used ChatGPT to consolidate information from vari
 
 I did not really answer questions in class or in the discord, but I think it would be better to try and answer the questions based on one's own knowledge rather than having to automatically resort to AI
   
-  8. Asking or answering a smart-question
+  8. Asking or answering a smart question
 
 Usually if I had a question I would be able to articulate it well enough or show it well enough that I did not have to have AI help me to formulate a question. 
   
-  9. Coding example e.g. “give an example of using Underscore .pluck”
+  9. Coding example e.g. "give an example of using Underscore .pluck"
 
 I requested coding examples from ChatGPT, particularly for complex functions like Underscore's .pluck, which enhanced my understanding.
   
@@ -67,7 +67,7 @@ I did not use ChatGPT to document my code as documenting code is not that hard a
   13. Quality assurance 
 
 I did use ChatGPT to help with making sure that my code was able to pass ESlint tests, it was often able to find the errors and correct them. 
-  
+
   14. Other uses in ICS 314 not listed above
 
 I have not used AI in any other way within ICS 314
