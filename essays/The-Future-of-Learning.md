@@ -11,34 +11,34 @@ labels:
 ---
 
 ### I. Introduction
-Artificial intelligence is a relatively new tool that has drastically changed the way that people learn. Since it can offer things like a personalized learning guide and tools that can enhance the teaching and learning processes. Software engineering is a field that especially benefits from AI as it can help with writing code, and explaining how a block of code works. Personally I have used ChatGPT to help me to debug code as well as an interactive learning guide when trying to research certain topics.
+Artificial intelligence (AI) is a revolutionary tool that has significantly transformed the educational landscape. It offers personalized learning experiences and enhances both teaching and learning processes. Software engineering, in particular, benefits from AI as it aids in writing and explaining code. Personally, I have used ChatGPT to help debug code and as an interactive learning guide for researching specific topics.
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18
 
-My use of AI for the Experience WODs were little to none as I thought it would be better for myself and my learning if I did it myself. Often I was able to do these experience WODs on my own but if there was something I was absolutely stuck on, I would try and watch the videos attached to the experience WODs. Through these I was often able to figure out whatever error I was having and fix it.  
+I minimally used AI for the Experience WODs, preferring to solve problems independently to enhance my learning. When stuck, I often referred to attached videos rather than AI, which helped me resolve issues effectively.
   
   2. In-class Practice WODs
 
-My AI use in the in-class practice WODs was pretty zero as I thought it was possible to do it on my own. Even if I did not finish them in class, it was possible to continue my efforts on them outside of class. With that extra time, the WODs became more doable. 
+My use of AI was negligible, as I believed I could manage these WODs independently. With additional time outside of class, I was able to complete them successfully.
   
   3. In-class WODs
 
-I tried to avoid using ChatGPT, but the in-class WODs had time constraints and were worth a lot of points. I did use ChatGPT for a few of the WODs but I still had a little bit of issues. 
+Despite trying to avoid using ChatGPT, the time constraints and high stakes of in-class WODs occasionally necessitated its use, although not without issues.
   
   4. Essays
 
-I have utilized AI in some of the essays, but it is usually for ideas of an essay title or to explain a topic to me more concisely. However, most of the time I did not use the titles ChatGPT gave me as I did not really like them and I would create my own.
+For essays, I sometimes consulted AI for ideas on titles or for more concise explanations of topics. Generally, I preferred to create my own titles.
   
   5. Final project
 
-In the final project of ICS 314, I used ChatGPT to help me to figure out a way to filter out items by their owners. It helped me to create a function that was able to keep track of someone's email to ensure that their items were showcased on their items page. 
+In the final project for ICS 314, ChatGPT assisted me in developing a function to filter items by their owners, ensuring proper display on their respective pages.
   
   6. Learning a concept / tutorial
 
-In the design patterns essay I asked ChatGPT to explain design patterns to me so that I could have most of the information right in front of me and not have to look at several different sources at once. ChatGPT also helped me to get a better idea of each of the different design patterns and how they worked. 
+For a design patterns essay, I used ChatGPT to consolidate information from various sources, helping me understand different design patterns more effectively.
   
   7. Answering a question in class or in Discord
 
@@ -50,7 +50,7 @@ Usually if I had a question I would be able to articulate it well enough or show
   
   9. Coding example e.g. “give an example of using Underscore .pluck”
 
-I asked ChatGPT to give coding examples on how strings of code worked such as a lot of Underscore functions because those were particularly confusing to me. I think I did ask ChatGPT to give me an example of how Underscore .pluck worked. Asking ChatGPT to give me coding examples did help a little with my general understanding of how coding works. 
+I requested coding examples from ChatGPT, particularly for complex functions like Underscore's .pluck, which enhanced my understanding.
   
   10. Explaining code
 
@@ -73,13 +73,12 @@ I did use ChatGPT to help with making sure that my code was able to pass ESlint 
 I have not used AI in any other way within ICS 314
 
 ### III. Impact on Learning and Understanding:
-AI has had both a negative and positive impact on my learning and understanding of software engineering concepts. It's had a negative impact in that it gives an easy way out and makes it more forgiving even if you give up. This has led to times where I have given up and taken the easy way out and just asked ChatGPT for the answer. However, there are positives though as it does help with explaining personally difficult topics such as Underscore.  
-
+The impact of AI on my learning has been mixed. Negatively, it sometimes encouraged taking shortcuts, which diminished my problem-solving persistence. Positively, AI was invaluable for demystifying complex topics like Underscore.
 ### IV. Practical Applications:
-AI is probably being more widely used now more than ever before and its usage will only grow. GitHub has introduced it's own AI that looks at the current code and will suggest code snippets or blocks of code to a user. This would definitely help in productivity since you're pretty much proofreading the code and making sure it's up to standard. This also allows for a developer to focus their attentions elsewhere.
+AI's application in software engineering is rapidly expanding, exemplified by GitHub's AI, which suggests code snippets, enhancing developer productivity and allowing focus on more strategic tasks.
 
 ### V. Challenges and Opportunities:
-The AI aren't perfect and do not possess a knowledge of everything. Because of this there are some things they are not good at such as HTML or React. Looking at AI generated code snippets for these languages are often either non-functional or do not do what you want it to do. It then falls onto the developer to do it on their own. I think it would be kind of interesting to have an AI integrated directly into the course with limitations that doesn't allow for answers to be directly given.  
+AI tools have limitations, particularly in areas like HTML or React, where they often generate non-functional or inappropriate code. An interesting future application could be integrating a restricted AI directly into courses to balance assistance with skill development.
 
 ### VI. Comparative Analysis:
 Looking at the traditional teaching style and an AI teaching style, there are definitely a lot of trade offs. For example, a more traditional teaching style will probably promote more practical skill development than an AI one. As it is really easy to just ask the AI for the answer and be done with it, but with a more traditional teaching style it kind of forces you to try to do things on your own. The AI teaching style might have more engagement as it can create a learning guide just for you and follows the way you might be able to learn. 
@@ -88,4 +87,4 @@ Looking at the traditional teaching style and an AI teaching style, there are de
 Personally, I believe AI could have a massive impact on the way software engineering is taught. It really all depends on how teachers or professors change their curriculum to accomodate for the usage of AI. They will probably have to test more for how someone is able to utilize AI to their benefit because of the way that AI can write code. Finding a way to integrate AI into their teaching style will also be another challenge as it is so new and the professors might not have that much experience with it. This will make coding easier though, for people who are trying to learn which opens the software development field even more. 
 
 ### VIII. Conclusion:
-The splash that was AI created waves in the field that is software engineering. AI has really made it easier to understand and write code. This has made things simpler for up and coming software engineers but at the same time a little more difficult as practical skill development can kind of be ignored. However, AI doesn't know everything and there are people needed to code and train these AI so, there might be plenty of job opportunity there rather than actual software development. For a future class maybe integrating an AI directly into the course could be an option but have it limited in the ways it can give someone an answer. I believe this could be a way to increase the practical skill development more than with an unrestrained AI. 
+AI has made significant waves in software engineering education, simplifying code understanding and generation. While this has made learning more accessible, it risks undermining practical skill development. Integrating AI into courses with constraints on its capabilities could be a balanced approach, promoting skill development while utilizing AI benefits.
