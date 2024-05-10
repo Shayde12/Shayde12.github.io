@@ -13,7 +13,7 @@ summary: "I helped to create a website called Item Depot."
 
 
 
-For the final project in ICS 314, my group and I were tasked with creating a lost and found website. Our website featured several pages: a landing page, lost items, found items, resolved items, and a personal items page. It also included two forms for posting lost or found items. You can visit the site here: https://itemdepot.org Overall, we managed to complete the website within the deadline, but there is always room for improvement. 
+For the final project in ICS 314, my group and I were tasked with creating a lost and found website. Our website featured several pages: a landing page, lost items, found items, resolved items, and a personal items page. It also included two forms for posting lost or found items. You can visit the site here: https://itemdepot.org. Overall, we managed to complete the website within the deadline, but there is always room for improvement. 
 
 In this project, I was responsible for creating the 'My Items' and 'Lost Items' pages, as well as deploying the site. The creation of these pages was made possible through everything I learned in the class. The 'Lost Items' page required an understanding of how to link pages together and how to create a schema for the lost items. The 'My Items' page was similar to create; however, I had to implement a function that would only show the items that a user had posted themselves. This task was a bit more challenging, but I managed to do it using functions provided by React. The deployment of the site was quite simple after the initial setup.
 
