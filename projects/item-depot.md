@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/Itemdepot.jpeg
+image: img/Itemdepot.jpeg
 title: "Item Depot"
 date: 2024
 published: true
