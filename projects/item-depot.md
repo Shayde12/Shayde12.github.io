@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/300x300-Homescreenproject.png
+image: <img class="img-fluid" height
 title: "Item Depot"
 date: 2024
 published: true
