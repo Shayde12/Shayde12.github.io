@@ -4,7 +4,7 @@ type: essay
 title: "Better Websites. More Headaches. Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
-published: true
+published: false
 labels:
   - Web Design
   - Bootstrap 5
