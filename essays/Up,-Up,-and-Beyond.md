@@ -11,7 +11,8 @@ labels:
   - UI Design
 ---
 
-<img align="left" hspace="10" width="300pixels" src="/img/giphy.gif">
+<img align="left" hspace="10" height="200pixels" src="/img/giphy.gif">
+
 ##  Prepping for Takeoff
 Throughout the semester, we have been learning and applying some of the things that go into being a software engineer. From things like user interface design, functional programming, and agile project management. All of these things not only go into the creation of web applications which was the main focus of the class, but also general software development and even real life. Learning these things relatively early on the journey to becoming a software engineer, I feel gives someone time to develop their skills that will definitely become relevant later on. 
 
