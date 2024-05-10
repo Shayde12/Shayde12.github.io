@@ -7,19 +7,22 @@ date: 2024-05-09
 published: true
 labels:
   - Software Engineering
-  - Issue Driven Project Management
+  - Agile Project Management
   - UI Design
 ---
 
 
-##  Introduction
-This question I came across while looking through StackOverflow seemed to be one of the few paragons of good question asking, that I've seen. The question that I found was here, https://stackoverflow.com/questions/72493528/angular-14-uncaught-in-promise-nullinjectorerror-r3injectorerrorstandalon, and the overall format of the question was good. And asked for some advice on how to fix an issue that was coming up after the update from angular 13 - angular 14. The issue was an exception error after trying to go to a different after loading the code. The sender included the code implemented that was able to be run within the site. The answers received were efficient and straight to the point, that went to the root of the problem, giving a proposed solution.  
+##  Prepping for Takeoff
+Throughout the semester, we have been learning and applying some of the things that go into being a software engineer. From things like user interface design, functional programming, and agile project management. All of these things not only go into the creation of web applications which was the main focus of the class, but also general software development and even real life. Learning these things relatively early on the journey to becoming a software engineer, I feel gives someone time to develop their skills that will definitely become relevant later on. 
 
-##  Issue Drive Project Management
-While browsing through StackOverflow, I came across a question that did not really follow the guidelines set by Eric Raymond, and his study into how to ask smart questions. His question was here https://stackoverflow.com/questions/77883277/injecting-javascript-into-html, but basically it was just asking how to transform a piece of javascript code into html. His question was not meeting the guidelines because they did not provide enough relevant information and only showed the piece of code they were trying to inject. Not only that, but the code was also not in the correct format. This question, did receive some answers, but most of the answers were telling the person to fix their code and improve their question. There were a few answers that were a little helpful but mostly was just to tell the person to go to How Tos for asking questions and writing code in the correct format.
+##  Running the Calculations
+Functional programming was one of the first things we went over in class. It is a type of methodology that helps with creating better code as the code written in this style is more compact meaning there is less to go wrong. To exemplify this way of writing code, we learned Underscore which helps to condense functions down with things like _.each or _.find. These functions were quite memorable as _.each iterates over a list and _.find looks through a list to find the value you want. Those two functions are quite helpful and will definitely have some uses in the future. By learning Underscore, it will help me to create better code that is more readable and maintainable for future use. 
 
-## UI Design
-Looking at StackOverflow and all of the questions on the site, there was a wide array of different questions. The questions ranged from good to bad and from what I was looking at there were more in the middle questions that weren't good nor bad. Both kinds of questions had answers but they would get answers regardless, whether or not it was an accurate answer, I'm not sure but the quality of answers definitely dffered. Although having such a site that is specifically for questions based in computer science is incredibly helpful it only is if you know how to ask questions properly. 
+##  Drawing the Blueprints
+Agile project management was very helpful when trying to create the final project for this class. The particular style of agile project management we used was issue driven project management which is breaking down the project into parts and creating issues that are tracked and finished throughout. Splitting the project into parts like this helps to promotes accountability and the actual progress of the project. This can be applied anywhere that has projects or even just small assignments as drawing up a plan and breaking things down ensures you're not overwhelmed later on, trying to rush to finish everything. 
 
-## Conclusion
+## Putting the pieces together
+User interface design was an interesting topic for me because of how most things have something that someone outside of you will look at. Like when doing the final project my group had to think about how to improve a user's experience when using the website. Going through the steps and designing an end result that was aesthetically pleasing to the eye and actually usable was quite the challenge. It makes me look at other things and wonder if possible how to improve the UI design of something.  
 
+## Successful Launch
+The end of the semester is here and now it's time to take what I learned from the class and apply it to the things coming next. Like the changes in how I write code now to increase readability and be less buggy. As well as the efficiency in taking on projects and not trying to do them all in one day, instead breaking them down into parts, taking it one step at a time. Finally bringing those two together to create and wonder how I could improve user interfaces in the things I see outside. All in all this has been a great experience and I have learned a lot. 
