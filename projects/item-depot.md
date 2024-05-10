@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img class="img-fluid" height
+image: <img class="img-fluid" height="300pixels" src="../img/">
 title: "Item Depot"
 date: 2024
 published: true
