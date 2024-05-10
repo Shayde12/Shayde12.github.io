@@ -13,9 +13,11 @@ summary: "I helped to create a website called Item Depot."
 
 
 
-For the final project of ICS 314 my group and I were tasked in creating a lost and found website. Our website had a landing, lost items, found items, resolved items, and my items page. Along with two forms for creating a lost or found item. Overall we were able to create the website within the deadline. But, there is always room for improvement if needed. 
+For the final project in ICS 314, my group and I were tasked with creating a lost and found website. Our website featured several pages: a landing page, lost items, found items, resolved items, and a personal items page. It also included two forms for posting lost or found items. Overall, we managed to complete the website within the deadline, but there is always room for improvement.
 
-Within the project I was tasked with creating the my items, lost items, and the deployment of the site. The creation of these pages were only possible through the culmination of all the things I learned from the class. The lost items page required a understanding of how to link pages together and how to create a schema for the lost items. The my items page was similar in creation, however, I had to implement a function that made it so that it would only show the items that someone posted themselves. This was a little more difficult but I was able to do it using functions that came with React. The deployment of the site was not too bad and 
+In this project, I was responsible for creating the 'My Items' and 'Lost Items' pages, as well as deploying the site. The creation of these pages was made possible through everything I learned in the class. The 'Lost Items' page required an understanding of how to link pages together and how to create a schema for the lost items. The 'My Items' page was similar to create; however, I had to implement a function that would only show the items that a user had posted themselves. This task was a bit more challenging, but I managed to do it using functions provided by React. The deployment of the site was quite simple after the initial setup.
 
-<img class="img-fluid" src="../img/300x300-honolulu-marathon-course-map.jpeg">
+<img class="img-fluid" src="../img/">
+
+Going through this project was quite interesting and enhanced my understanding of how projects are managed in a professional setting. Meeting deadlines and ensuring the product worked on time were probably the biggest challenges for me, as I tend to procrastinate. However, I believe this project helped me improve my time management skills slightly. To sum everything up, it was a very good experience that challenged me and helped improve skills that I previously lacked.
  
