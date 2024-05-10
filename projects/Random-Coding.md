@@ -4,7 +4,7 @@ type: project
 image: img/300x300-Random-Coding.jpeg
 title: "Random Coding"
 date: 2024
-published: true 
+published: false 
 labels:
   - Coding 
 summary: "I've started to do start some coding projects in order to become better at coding."
